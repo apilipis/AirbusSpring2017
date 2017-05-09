@@ -1,5 +1,8 @@
 # AuctionPlatform
 A smartcontract Dapp with a web based UI that keeps track of contract data by adding it into blocks to be mined on a test network.
+
+Note this relies on a database backend that can be found under BerkeleyBlockchain/AuctionPlatformBackend
+
 ## Setup
 1. Ethereum Client (original uses testrpc) v3.0.3
 2. Truffle v3.1.2
